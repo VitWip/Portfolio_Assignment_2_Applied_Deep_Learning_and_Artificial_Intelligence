@@ -1,1 +1,1 @@
-Test
+This code is centered on solving a multi-class classification problem using fibert model to classify sentences as positive, negative or neutral. It is involving data preprocessing, model training, and performance evaluation, likely using metrics and visualizations to assess classification accuracy.
